@@ -13,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Mary_Hartwell_Catherwood
 description: Story of the explorer La Salle and his friend Henri Tonty from 1678 to
   1687.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41273#The-Story-of-Tonty
 gutenberg_issued: '2012-11-02'
 gutenberg_type: Text
 identifiers:
